@@ -25,7 +25,6 @@ header {
 .navigation {
     display: flex;
     justify-content: flex-end;
-
 }
 
 .navigation {
@@ -46,7 +45,6 @@ header {
 }
 .navigation li:hover {
     background-color: #4c8bef;
-
 }
 
 .introduce-myself {
@@ -79,8 +77,6 @@ header {
     position: relative;
     top: 175px;
     justify-content: center;
-
-
 }
 
 .header-contact-icons ul li {
@@ -99,7 +95,6 @@ header {
 .header-contact-icons ul li i  {
     font-size: 21px;
     color: white;
-
 }
 
 .section-about {
@@ -168,7 +163,6 @@ header {
     margin: 15px;
     padding-bottom: 14px;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
-
 }
 
 .information-about li  span:first-child {
@@ -183,7 +177,6 @@ header {
 
 .information-about li span + span {
     margin: 0 auto;
-    
 }
 .helper {
     display: inline-block;
@@ -207,7 +200,6 @@ div.content-box {
     box-shadow: 0 0 9px -4px black;
     padding: 25px;
     position: relative;
-    
 }
 
 .space-beetwen-second {
@@ -317,14 +309,12 @@ div.personal, div.professional {
     width: 62px;
     height: 62px;
     top: -55px;
-    
     margin: 0 auto;
     position: relative;
     border-radius: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .person-icon i {
@@ -351,7 +341,6 @@ div.personal, div.professional {
     display: flex;
     justify-content: space-around;
     min-height: 700px;
-    
 }
 
 .timeline {
@@ -403,8 +392,6 @@ div.personal, div.professional {
     border-radius: 30px;
     background-color: #304FFF;
     margin-right: 20px;
-    
-
 }
 
 .point-one,
@@ -425,7 +412,6 @@ div.personal, div.professional {
     top: -70px;
 } 
 
-
 .point-two > div + div {
     position: relative;
     right: 150px;
@@ -443,14 +429,11 @@ div.personal, div.professional {
     width: 35%;
     flex-direction: column;
     justify-content: center;
-
 }
 
 .kindergarden,
 .university,
-.school
-
- {
+.school {
     background-color: #fefefe;
     padding: 5% 10%;
 }
@@ -476,7 +459,6 @@ div.personal, div.professional {
 .place-of-education + p {
     line-height: 1.5rem;
 }
-
 
 input[type=text], select, textarea {
     width: 100%;
@@ -512,12 +494,11 @@ input[type=text], select, textarea {
     display: flex;
     justify-content: center;
     border-radius: 12px;
-    
   }
 
   .container-form {
-      width: 50%;
-      border: 1px solid #304FFF
+    width: 50%;
+    border: 1px solid #304FFF
   }
 
 .contact-header {
@@ -527,6 +508,7 @@ input[type=text], select, textarea {
     font-size: 36px;
     font-weight: 100;
 }
+
 footer {
     text-align: center;
     font-size: 16px;
